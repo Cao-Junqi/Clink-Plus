@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Clink++
 // @namespace    http://tampermonkey.net/
-// @version      1.1.4
+// @version      1.2.0
 // @description  增强Clink LiveChat功能的油猴脚本
 // @author       Junqi
 // @match        https://agent-sh.clink.cn/*
